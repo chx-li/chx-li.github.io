@@ -22,7 +22,7 @@ repository               : "chx-li/chx-li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "LI, Chenxi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Tsinghua University (THU)"

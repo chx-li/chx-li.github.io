@@ -15,7 +15,7 @@ and I received my Bachelor's degree at Tongji University, supervised by [Prof. C
 My research interests lie in robotics and embodied intelligence, which encompasses various aspects from perception to planning and control. I am currently working on embodied medical robots for echocardiography. In addition, I have also conducted research on robot collaboration and high-speed drones.
 
 ---
-### Education
+## Education
 
 **Department of Automation, Tsinghua University** (Beijing, China) &emsp; _08/2022 - present_  
 Ph.D. Student in Control Science and Engineering  
@@ -26,7 +26,7 @@ B.Eng. in Communication Engineering
 GPA: 4.90/5.0
 
 ---
-### Competitions
+## Competitions
 - 2024 &emsp **Best Oral Presentation** in the Doctoral Seminar of Chinese Association of Automation
 - 2021 &emsp **First prize** in National Undergraduates IoT Design Competition
 - 2021 &emsp **Finalist Winners** in COMAP Interdisciplinary Contest in Modelling (ICM) (Top 0.5%)
@@ -34,9 +34,10 @@ GPA: 4.90/5.0
 - 2020 &emsp **First prize** in VEX Robotics Online Skills Challenge
 - 2019 &emsp **Skills Finalist** in VEX Robotics Asia-Pacific Championship
 - 2019 &emsp **Top prize** in Shanghai Engineering Training Integration Ability Competition
+
 ---
 
-[//]: # (### Honors)
+[//]: # (## Honors)
 
 [//]: # (- 2025 &emsp Talent Development Program &#40;Graduate Students&#41;, Chinese Association of Automation &#40;中国自动化学会大学生英才托举计划&#41;)
 
@@ -52,7 +53,7 @@ GPA: 4.90/5.0
 
 ---
 
-### Social Service
+## Social Service
 - Reviewer:	&emsp IEEE ICRA’25, IEEE IROS’25, IEEE IROS’24
 - 2024-Present &emsp Teaching Assistant for freshman class, Tsinghua University
 - 2023-2024 &emsp 1th President of Chinese Association of Automation (CAA) Tsinghua Student Branch
