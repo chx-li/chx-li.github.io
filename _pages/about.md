@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chenxi Li 李晨曦"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Chenxi Li 李晨曦
-======
 I am currently a fourth-year MP-PhD student (doctoral stage) in the Department of Automation at Tsinghua University, supervised by [Prof. HUANG, Gao](http://www.gaohuang.net/).
 
 Prior to that, I was supervised by [Prof. LIANG, Bin](https://www.au.tsinghua.edu.cn/en/info/1096/3293.htm) and [Dr. LU, Weining](https://www.bnrist.tsinghua.edu.cn/info/1220/3908.htm) in my Master's stage at Tsinghua University,

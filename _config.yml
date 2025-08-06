@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"  # "en-US"
+locale                   : "en-US"  # "en-US" zh-CN
 site_theme               : "default"
 title                    : "LI, Chenxi / 李晨曦"
 title_separator          : "-"
@@ -82,8 +82,13 @@ author:
 publication_category:
 #  books:
 #    title: 'Books'
+  under review:
+    title: 'Under Review'
   manuscripts:
-    title: 'Peer reviewed manuscripts'
+    title: 'Peer Reviewed Manuscripts'
+  patents:
+    title: 'Patents'
+
 #  conferences:
 #    title: 'Conference Papers'
 
