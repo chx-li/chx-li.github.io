@@ -29,6 +29,7 @@ GPA: 4.90/5.0
 ---
 ## Publications
 [Please visit my **Publication page** for details.](https://chx-li.github.io/publications/)
+
 ---
 ## Competitions
 - 2024 &emsp; **Best Oral Presentation** in the Doctoral Seminar of Chinese Association of Automation
@@ -38,6 +39,7 @@ GPA: 4.90/5.0
 - 2020 &emsp; **First prize** in VEX Robotics Online Skills Challenge
 - 2019 &emsp; **Skills Finalist** in VEX Robotics Asia-Pacific Championship
 - 2019 &emsp; **Top prize** in Shanghai Engineering Training Integration Ability Competition
+
 ---
 
 ## Honours & Scholarships
@@ -51,6 +53,7 @@ GPA: 4.90/5.0
 - 2021 &emsp; **China National Scholarship**, Outstanding Student Leader, Tongji University
 - 2020 &emsp; **China National Scholarship**, Outstanding Student, Tongji University
 - 2019 &emsp; **China National Scholarship**, Tongji University
+
 ---
 
 ## Social Services
