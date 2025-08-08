@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"  # "en-US" zh-CN
 site_theme               : "default"
-title                    : "Chenxi Li - Home Page"
+title                    : "Chenxi Li - Tsinghua University"
 title_separator          : "-"
 name                     : &name "Chenxi Li (李晨曦)"
 description              : &description "Ph.D. student at Tsinghua University (THU)."
@@ -22,7 +22,7 @@ repository               : "chx-li/chx-li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chenxi.png"
   name             : "Chenxi Li (李晨曦)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Tsinghua University (THU)"
