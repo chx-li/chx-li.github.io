@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="https://scholar.google.com.hk/citat
 
 ## Under Review
 
-1. Qingquan Lin, Weining Lu, Litong Meng, **Chenxi Li**, Bin Liang, "Efficient Collaborative Navigation through Perception Fusion for Multi-Robots in Unknown Environments," submitted to _IEEE Transactions on Mechatronics **(T-Mech)**_, 2025. [[Paper](https://arxiv.org/abs/2411.01274)]
+1. Qingquan Lin, Weining Lu, Litong Meng, **Chenxi Li**, Bin Liang, "Efficient Collaborative Navigation through Perception Fusion for Multi-Robots in Unknown Environments," submitted to _**Neurocomputing**_, 2025. [[Paper](https://arxiv.org/abs/2411.01274)]
 
 ## Peer Reviewed Papers
 1. **Chenxi Li**, Weining Lu, Qingquan Lin, Litong Meng, Haolu Li, Bin Liang, "Nav-SCOPE: Swarm Robot Cooperative Perception and Coordinated Navigation," _IEEE Transactions on Automation Science and Engineering **(T-ASE)**_ , 2025. [[Publisher](https://ieeexplore.ieee.org/document/11145089)] [[Paper](https://arxiv.org/abs/2409.10049v2)]
