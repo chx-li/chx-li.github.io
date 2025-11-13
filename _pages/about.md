@@ -42,7 +42,7 @@ GPA: 4.90/5.0
 
 
 ## Honours & Scholarships
-
+- 2025 &emsp; **China National Scholarship** (Doctoral Students)
 - 2025 &emsp; Talent Development Program (Graduate Students), Chinese Association of Automation (中国自动化学会大学生英才托举计划)
 - 2024 &emsp; Comprehensive Excellence Scholarship **(First Class)**, Outstanding Student Leader, Tsinghua University
 - 2023 &emsp; Comprehensive Excellence Scholarship, Outstanding Student, Tsinghua University
@@ -55,7 +55,7 @@ GPA: 4.90/5.0
 
 
 ## Social Services
-- Reviewer: &emsp; IEEE ICRA’25, IEEE IROS’25, IEEE IROS’24
+- Reviewer: &emsp; IEEE TIM, ICRA’25, IROS’25, IROS’24
 - 2024-Present &emsp; Teaching Assistant for freshman class, Tsinghua University
 - 2023-2024 &emsp; 1st President of Chinese Association of Automation (CAA) Tsinghua Student Branch
 - 2023-2024 &emsp; 20th President of Graduate Union, Department of Automation, Tsinghua University
