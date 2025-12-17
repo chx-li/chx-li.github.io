@@ -13,12 +13,12 @@ You can also find my articles on <u><a href="https://scholar.google.com.hk/citat
 
 ## Under Review
 
-1. Qingquan Lin, Weining Lu, Litong Meng, **Chenxi Li**, Bin Liang, "Efficient Collaborative Navigation through Perception Fusion for Multi-Robots in Unknown Environments," submitted to _**Neurocomputing**_, 2025. [[Paper](https://arxiv.org/abs/2411.01274)]
 
 ## Peer Reviewed Papers
 1. **Chenxi Li**, Weining Lu, Qingquan Lin, Litong Meng, Haolu Li, Bin Liang, "Nav-SCOPE: Swarm Robot Cooperative Perception and Coordinated Navigation," _IEEE Transactions on Automation Science and Engineering **(T-ASE)**_ , 2025. [[Publisher](https://ieeexplore.ieee.org/document/11145089)] [[Paper](https://arxiv.org/abs/2409.10049v2)]
 1. **Chenxi Li**, Weining Lu, Zhihao Ma, Litong Meng, Bin Liang, "Highly Efficient Observation Process based on FFT Filtering for Robot Swarm Collaborative Navigation in Unknown Environments", _IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)**_, 2024. [[Paper](https://ieeexplore.ieee.org/document/10801770)]
 1. Weining Lu, Qingquan Lin, Litong Meng, **Chenxi Li**, Bin Liang, "Collaborative Navigation of Multiple Autonomous Mobile Robots via Geometric Graph Neural Network" _IEEE Transactions on Industrial Electronics **(T-IE)**_, 2025. [[Paper](https://ieeexplore.ieee.org/document/11045143/)]
+1. Qingquan Lin, Weining Lu, Litong Meng, **Chenxi Li**, Bin Liang, "Efficient Collaborative Navigation through Perception Fusion for Multi-Robots in Unknown Environments," _**Neurocomputing**_, 2025. [[Paper](https://arxiv.org/abs/2411.01274)]
 1. Zhaocheng Wang, Rui Wang, Jun Wu, Wei Zhang, **Chenxi Li**, "Dynamic Resource Allocation for Real-Time Cloud XR Video Transmission: A Reinforcement Learning Approach", _IEEE Transactions on Cognitive Communications and Networking **(T-CCN)**_, 2024. [[Paper](https://ieeexplore.ieee.org/document/10391056)]
 
 ## Patents
