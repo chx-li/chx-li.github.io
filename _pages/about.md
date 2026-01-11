@@ -63,4 +63,6 @@ GPA: 4.90/5.0
 
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=owbYEczRW3QNsAnNvp951SQ2WsRULi1QqlgJ-Nq0f1g&cl=ffffff&w=a"></script>
+<div style="transform: scale(0.4); transform-origin: left top; display: inline-block;">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=owbYEczRW3QNsAnNvp951SQ2WsRULi1QqlgJ-Nq0f1g&cl=ffffff&w=a"></script>
+</div>
