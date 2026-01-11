@@ -59,10 +59,6 @@ GPA: 4.90/5.0
 - Conference Reviewer: &emsp; ICRA’25, IROS’25, IROS’24
 - 2024-Present &emsp; Teaching Assistant for freshman class, Tsinghua University
 - 2023-2024 &emsp; 1st President of Chinese Association of Automation (CAA) Tsinghua Student Branch
-- 2023-2024 &emsp; 20th President of Graduate Union, Department of Automation, Tsinghua University
+- 2023-2024 &emsp; 20th President of the Graduate Union, Department of Automation, Tsinghua University
 
 
-
-<div style="transform: scale(0.4); transform-origin: left top; display: inline-block;">
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=owbYEczRW3QNsAnNvp951SQ2WsRULi1QqlgJ-Nq0f1g&cl=ffffff&w=a"></script>
-</div>
