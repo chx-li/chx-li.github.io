@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-我是清华大学自动化系2022级硕博连读生，导师是[黄高](http://www.gaohuang.net/)副教授。
+我是清华大学自动化系2022级硕博连读生，导师是[黄高](http://www.gaohuang.net/)副教授。当前，我正在开展具身智能在医疗领域的研究，合作伙伴包括[蒋昊峻](https://jianghaojun.github.io/)、[王腾](https://scholar.google.com.hk/citations?user=yHtp8lUAAAAJ&hl=en)和王荻文。
 
 此前，我的硕士生导师是[梁斌](https://www.au.tsinghua.edu.cn/en/info/1096/3293.htm)教授和[芦维宁](https://www.bnrist.tsinghua.edu.cn/info/1220/3908.htm)副研究员。本科阶段，我在同济大学通信工程专业学习，导师是[陈启军](https://rail.tongji.edu.cn)教授和[王睿](https://see.tongji.edu.cn/info/1379/12428.htm)教授。
 
@@ -37,8 +37,8 @@ redirect_from:
 
 
 ## 荣誉/奖励
+- 2025 &emsp; 博士生**国家奖学金**，清华大学“一二·九”辅导员
 - 2025 &emsp; 入选中国自动化学会 **大学生英才托举计划**
-- 2025 &emsp; 研究生**国家奖学金**
 - 2024 &emsp; 清华大学综合优秀奖学金 **(一等)**、社会工作奖学金、校级优秀党建工作者、优秀学生干部
 - 2023 &emsp; 清华大学综合优秀奖学金 **(二等)**、校级优秀团员、“一二·九”主题教育优秀领队
 - 2022 &emsp; 同济大学 **追求卓越提名奖** （同济大学最高荣誉）
@@ -62,7 +62,8 @@ redirect_from:
 
 
 ## 社会工作
-- 审稿: &emsp; IEEE TIM, ICRA’25, IROS’25, IROS’24
+- 期刊审稿: &emsp; IEEE TIM, BMC Medical Research Methodology
+- 会议审稿: &emsp; ICRA’25, IROS’25, IROS’24
 - 2024-至今 &emsp; 清华大学研究生德育助理（新生助理）
 - 2023-2024 &emsp; 中国自动化学会清华大学学生分会**首任主席**
 - 2023-2024 &emsp; 清华大学自动化系研究生会**主席**
