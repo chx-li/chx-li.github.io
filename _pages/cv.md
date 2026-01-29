@@ -62,7 +62,7 @@ redirect_from:
 
 
 ## 社会工作
-- 期刊审稿: &emsp; IEEE TIM, BMC Medical Research Methodology
+- 期刊审稿: &emsp; IEEE TIM, BMC Medical Research Methodology, Cluster Computing
 - 会议审稿: &emsp; ICRA’25, IROS’25, IROS’24
 - 2024-至今 &emsp; 清华大学研究生德育助理（新生助理）
 - 2023-2024 &emsp; 中国自动化学会清华大学学生分会**首任主席**

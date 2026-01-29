@@ -55,7 +55,7 @@ GPA: 4.90/5.0
 
 
 ## Social Services
-- Journal Reviewer: &emsp; IEEE TIM, BMC Medical Research Methodology
+- Journal Reviewer: &emsp; IEEE TIM, BMC Medical Research Methodology, Cluster Computing
 - Conference Reviewer: &emsp; ICRA’25, IROS’25, IROS’24
 - 2024-Present &emsp; Teaching Assistant for freshman class, Tsinghua University
 - 2023-2024 &emsp; 1st President of Chinese Association of Automation (CAA) Tsinghua Student Branch
