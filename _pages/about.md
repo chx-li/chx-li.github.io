@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year M.Phil-Ph.D. student (doctoral stage) in the Department of Automation at Tsinghua University, supervised by [Prof. HUANG, Gao](http://www.gaohuang.net/). I am currently conducting research on embodied medical robots for ultrasonography, with lab members [Haojun Jiang](https://jianghaojun.github.io/), [Teng Wang](https://scholar.google.com.hk/citations?user=yHtp8lUAAAAJ&hl=en), and Diwen Wang.
+I am currently a fourth-year M.Phil-Ph.D. transitioned student (doctoral stage) in the Department of Automation at Tsinghua University, supervised by [Prof. HUANG, Gao](http://www.gaohuang.net/). I am currently conducting research on embodied medical robots for ultrasonography, with lab members [Haojun Jiang](https://jianghaojun.github.io/), [Teng Wang](https://scholar.google.com.hk/citations?user=yHtp8lUAAAAJ&hl=en), and Diwen Wang.
 
 Prior to that, I was supervised by [Prof. LIANG, Bin](https://www.au.tsinghua.edu.cn/en/info/1096/3293.htm) and [Dr. LU, Weining](https://www.bnrist.tsinghua.edu.cn/info/1220/3908.htm) in my Master's stage at Tsinghua University,
 and I received my Bachelor's degree at Tongji University, supervised by [Prof. CHEN, Qijun](https://rail.tongji.edu.cn) and [Prof. WANG, Rui](https://see.tongji.edu.cn/info/1379/12428.htm).
@@ -31,16 +31,6 @@ GPA: 4.90/5.0
 [Please visit my **Publication page** for details.](https://chx-li.github.io/publications/)
 
 
-## Competitions
-- 2024 &emsp; **Best Oral Presentation** in the Doctoral Seminar of Chinese Association of Automation
-- 2021 &emsp; **First prize** in National Undergraduates IoT Design Competition
-- 2021 &emsp; **Finalist Winners** in COMAP Interdisciplinary Contest in Modelling (Top 0.5%)
-- 2020 &emsp; **Design Award** in VEX Robotics World Championship China Finals
-- 2020 &emsp; **First prize** in VEX Robotics Online Skills Challenge
-- 2019 &emsp; **Skills Finalist** in VEX Robotics Asia-Pacific Championship
-- 2019 &emsp; **Top prize** in Shanghai Engineering Training Integration Ability Competition
-
-
 ## Honours & Scholarships
 - 2025 &emsp; **China National Scholarship** for Doctoral Students
 - 2025 &emsp; Talent Development Program (Graduate Students), Chinese Association of Automation (中国自动化学会大学生英才托举计划)
@@ -52,6 +42,16 @@ GPA: 4.90/5.0
 - 2021 &emsp; **China National Scholarship**, Outstanding Student Leader, Tongji University
 - 2020 &emsp; **China National Scholarship**, Outstanding Student, Tongji University
 - 2019 &emsp; **China National Scholarship**, Tongji University
+
+
+## Competitions
+- 2024 &emsp; **Best Oral Presentation** in the Doctoral Seminar of Chinese Association of Automation
+- 2021 &emsp; **First prize** in National Undergraduates IoT Design Competition
+- 2021 &emsp; **Finalist Winners** in COMAP Interdisciplinary Contest in Modelling (Top 0.5%)
+- 2020 &emsp; **Design Award** in VEX Robotics World Championship China Finals
+- 2020 &emsp; **First prize** in VEX Robotics Online Skills Challenge
+- 2019 &emsp; **Skills Finalist** in VEX Robotics Asia-Pacific Championship
+- 2019 &emsp; **Top prize** in Shanghai Engineering Training Integration Ability Competition
 
 
 ## Social Services
