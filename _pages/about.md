@@ -19,7 +19,7 @@ My research interests lie in robotics and embodied intelligence, which encompass
 **Department of Automation, Tsinghua University** &emsp; (Beijing, China)  
 _08/2022 - present_  
 Ph.D. Student in Control Science and Engineering  
-GPA: 3.79/4.0
+GPA: 3.90/4.0
 
 **College of Electronic and Information Engineering, Tongji University**  &emsp; (Shanghai, China)  
 _08/2018 - 07/2022_  
@@ -33,10 +33,10 @@ GPA: 4.90/5.0
 
 ## Honours & Scholarships
 - 2025 &emsp; **China National Scholarship** for Doctoral Students
-- 2025 &emsp; Talent Development Program (Graduate Students), Chinese Association of Automation (中国自动化学会大学生英才托举计划)
+- 2025 &emsp; Talent Development Program (Graduate Students), Chinese Association of Automation
 - 2024 &emsp; Comprehensive Excellence Scholarship **(First Class)**, Outstanding Student Leader, Tsinghua University
 - 2023 &emsp; Comprehensive Excellence Scholarship, Outstanding Student, Tsinghua University
-- 2022 &emsp; The Pursuit of Excellence Award Nomination, Tongji University **(追求卓越提名奖, Top 6 & highest honor)**
+- 2022 &emsp; The Pursuit of Excellence Award Nomination, Tongji University **(追求卓越提名奖, highest honor)**
 - 2022 &emsp; Qidi Scholarship (启迪奖学金), by **Prof. WU, Qidi (吴启迪)**, former President of Tongji University
 - 2022 &emsp; Shanghai Outstanding Graduates, Shanghai Government
 - 2021 &emsp; **China National Scholarship**, Outstanding Student Leader, Tongji University
@@ -55,7 +55,7 @@ GPA: 4.90/5.0
 
 
 ## Social Services
-- Journal Reviewer: &emsp; IEEE TIM, BMC Medical Research Methodology, Cluster Computing
+- Journal Reviewer: &emsp; IEEE TIM, BMC Med. Res. Method., Comput. Methods Programs Biomed, ...
 - Conference Reviewer: &emsp; ICRA’25, IROS’25, IROS’24
 - 2024-Present &emsp; Teaching Assistant for freshman class, Tsinghua University
 - 2023-2024 &emsp; 1st President of Chinese Association of Automation (CAA) Tsinghua Student Branch
